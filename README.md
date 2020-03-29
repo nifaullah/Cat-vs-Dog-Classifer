@@ -1,8 +1,6 @@
 # Cats & Dogs Classifer
 Use CNN with Keras to classify Dog &amp; Cat Images
 
-# Cats & Dogs Classification
-
 **Goal:**
 
 1. To succesfully apply the concept of Convolutional Neural Network to large scale data.
