@@ -22,6 +22,6 @@ After 10 or so iteration 89% train accuracy and 88% test accuracy is not bad but
 **Citation:**
 
 
-1. This is a reproduction of <a href="https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/">Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras</a>  work  from  <a href="https://pythonprogramming.net"> Python Programming Tutorial </a>
+1. This is a rework of <a href="https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/">Convolutional Neural Networks - Deep Learning basics with Python, TensorFlow and Keras</a>  work  from  <a href="https://pythonprogramming.net"> Python Programming Tutorial </a>
 2. This analysis or model building was done using <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab </a>
 
